@@ -199,6 +199,7 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
+![image](https://github.com/kanishka2305/COLOR_CONVERSIONS_OF-IMAGE/assets/113497357/98702355-e374-416f-963c-29f4e2708733)
 
 
 ### viii) RGB and BGR to YCrCb
@@ -219,6 +220,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/kanishka2305/COLOR_CONVERSIONS_OF-IMAGE/assets/113497357/23e8998b-afbf-42bb-97ca-829d8ca93d96)
 
 
 ### ix) Split and merge RGB Image

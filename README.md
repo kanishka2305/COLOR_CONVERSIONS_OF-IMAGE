@@ -175,6 +175,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/kanishka2305/COLOR_CONVERSIONS_OF-IMAGE/assets/113497357/a9edf5df-c662-4db7-b161-b640fa445272)
 
 
 ### vii) HSV to RGB and BGR

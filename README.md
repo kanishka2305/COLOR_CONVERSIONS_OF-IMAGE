@@ -37,8 +37,8 @@ Split and merge HSV Image
 
 ##### Program:
 ```
-### Developed By: kanishka
-### Register Number: 212222230061
+## Developed By: kanishka
+## Register Number: 212222230061
 ```
 <table>
   <tr>
